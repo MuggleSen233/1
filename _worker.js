@@ -1,7 +1,7 @@
 export default {
   // 存储映射表：自定义 Key 与真实 API Key 的映射
   customKeys: {
-    "sk-5Q3fwdCF0ZD8hHG9BRG4aHQUIApdtJr20jicUtaV25J1oN1c": "sk-svcacct-N6xCcj3O0pq3WF2lUtzDiJIu8jqHuPHyib2QCwepr2yGlQ8fQr9AFfTUOEbT3BlbkFJbXtLZT8qeEryCPWVcnYC3hPClcu9qgsjPrXSGqeT7RXw6zyb7HoMa7cUdAA",
+    "sk-5Q3fedCF0ZD8hHG9BRG4aHQUIApdtJr20jicUtVc25J1oN1": "sk-svcacct-N6xCcj3O0pq3WF2lUtzDiJIu8jqHuPHyib2QCwepr2yGlQ8fQr9AFfTUOEbT3BlbkFJbXtLZT8qeEryCPWVcnYC3hPClcu9qgsjPrXSGqeT7RXw6zyb7HoMa7cUdAA",
     // 你可以预先生成多个自定义 API Key
   },
 
