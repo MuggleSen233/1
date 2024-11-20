@@ -7,7 +7,7 @@ export default {
 
   async fetch(request) {
     const url = new URL(request.url);
-    url.host = "api.openai.com";
+    url.host = "https://c965e209.1-8ei.pages.dev/";
 
     // 从请求头中获取传递的 API Key
     const customKey = request.headers.get("Authorization")?.replace("Bearer ", "");
